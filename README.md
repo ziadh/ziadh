@@ -1,6 +1,8 @@
 Hi 👋 My name is Ziad Hussein
-=============================Software Engineer-----------------
+=============================
 
+Software Engineer
+-----------------
 I recently graduated with a Bachelor's degree in CS and I am passionate about programming and web development.
 * 🌍I'm based in Michigan
 * 🖥️See my portfolio at [GitHub pages](http://ziadh.github.io/Personal-Website/)
