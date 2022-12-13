@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 I recently graduated with a Bachelor's degree in CS and I am passionate about programming and web development.
 * 🌍I'm based in Michigan
-* 🖥️See my portfolio at [GitHub pages](http://ziadh.github.io/Personal-Website/)
+* 🖥️See my portfolio at [GitHub pages](http://ziadh.github.io/Personal-Portfolio/)
 * ✉️  You can contact me at [zhussein1996@gmail.com](mailto:zhussein1996@gmail.com)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on any team-based projects to further my career as a software engineer.
