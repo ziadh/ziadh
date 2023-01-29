@@ -19,4 +19,14 @@ I recently graduated with a Bachelor's degree in CS and I am passionate about pr
 ### Socials<p align="left"> <a href="https://www.github.com/ziadh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ziad-hussein-71022b23a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <!--START_SECTION:waka-->
+
+```text
+Python       9 hrs 51 mins   ███████████████████░░░░░░   75.78 %
+Markdown     48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+C#           31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Dart         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+```
+
 <!--END_SECTION:waka-->
