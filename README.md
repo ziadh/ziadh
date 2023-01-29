@@ -18,3 +18,5 @@ I recently graduated with a Bachelor's degree in CS and I am passionate about pr
 
 ### Socials<p align="left"> <a href="https://www.github.com/ziadh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ziad-hussein-71022b23a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
