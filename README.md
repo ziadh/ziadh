@@ -20,4 +20,14 @@ I recently graduated with a Bachelor's degree in CS and I am passionate about pr
 
 ## Coding Activity For the last 7 days:
 <!--START_SECTION:waka-->
+
+```text
+Python       9 hrs 51 mins   ███████████████████░░░░░░   75.78 %
+Markdown     48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+C#           31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Dart         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+JSON         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+HTML         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+```
+
 <!--END_SECTION:waka-->
