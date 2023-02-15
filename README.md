@@ -7,11 +7,11 @@ Software Engineer
 
 -----------------
 I recently graduated with a Bachelor's degree in CS and I am passionate about programming and web development.
-* 🌍I'm based in Michigan
+* 🌍Based in Michigan
 * 🖥️See my portfolio at [GitHub pages](https://ziadh.github.io/Personal-Portfolio/)
-* ✉️  You can contact me at [zhussein1996@gmail.com](mailto:zhussein1996@gmail.com)
-* 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on any team-based projects to further my career as a software engineer.
+* ✉️  Contact me at [zhussein1996@gmail.com](mailto:zhussein1996@gmail.com)
+* 🧠  Learning Javascript
+* 🤝  Open to collaborating on any team-based projects to further my career as a software engineer.
 
 ### Skills
 
@@ -21,7 +21,7 @@ I recently graduated with a Bachelor's degree in CS and I am passionate about pr
 
 ### Socials<p align="left"> <a href="https://www.github.com/ziadh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ziad-hussein-71022b23a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-## Coding Activity For the last 7 days:
+## Coding Activity For the Last 7 Days:
 <!--START_SECTION:waka-->
 
 ```text
