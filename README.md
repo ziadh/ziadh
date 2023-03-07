@@ -25,12 +25,12 @@ I recently graduated with a Bachelor's degree in CS and I am passionate about pr
 <!--START_SECTION:waka-->
 
 ```text
-Python       6 hrs 53 mins   █████████████████████▓░░░   86.66 %
-JSON         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Docker       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Python       6 hrs 30 mins   ████████████████████▓░░░░   82.41 %
+JSON         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Markdown     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+HTML         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Docker       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
