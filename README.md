@@ -8,10 +8,12 @@ Software Engineer
 -----------------
 I recently graduated with a Bachelor's degree in CS and I am passionate about programming and web development.
 * 🌍Based in Michigan
-* 🖥️See my portfolio at [GitHub pages](https://ziadh.github.io/Personal-Portfolio/)
-* ✉️  Contact me at [zhussein1996@gmail.com](mailto:zhussein1996@gmail.com)
-* 🧠  Learning Javascript
-* 🤝  Open to collaborating on any team-based projects to further my career as a software engineer.
+
+* 🖥️See my portfolio [here](https://ziadh.github.io/Personal-Portfolio/)
+  
+* 🧠  I'm learning Javascript
+  
+* 🤝  I'm open to collaborating on any team-based projects to further my career as a software engineer.
 
 ### Skills
 
@@ -21,16 +23,16 @@ I recently graduated with a Bachelor's degree in CS and I am passionate about pr
 
 ### Socials<p align="left"> <a href="https://www.github.com/ziadh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ziad-hussein-71022b23a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-## Coding Activity For the Last 7 Days:
+## Coding Activity For the last 7 days:
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 53 mins   ███████████████████░░░░░░   76.20 %
-Docker       55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-JSON         54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Markdown     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+JavaScript         4 hrs 44 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.02 %
+Python             4 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
+Dart               3 hrs 6 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+HTML               2 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+JSON               1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Markdown           52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
 <!--END_SECTION:waka-->
