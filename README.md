@@ -7,7 +7,7 @@ Software Engineer
 
 -----------------
 I recently graduated with a Bachelor's degree in CS and I am passionate about programming and web development.
-* 🌍Based in Michigan
+* 🌍 Based in Michigan
 
 * 🖥️ See my portfolio [here](https://ziadh.github.io/Personal-Portfolio/)
   
