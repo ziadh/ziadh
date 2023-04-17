@@ -3,8 +3,6 @@ Hi 👋 My name is Ziad Hussein
 
 Software Engineer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadh&layout=compact)](https://github.com/ziadh/github-readme-stats)
-
 -----------------
 I recently graduated with a Bachelor's degree in CS and I am passionate about programming and web development.
 * 🌍 Based in Michigan
