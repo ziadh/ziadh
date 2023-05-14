@@ -36,11 +36,11 @@ I recently graduated with a Bachelor's degree in CS and I am passionate about pr
 <!--START_SECTION:waka-->
 
 ```text
-Dart       5 hrs 15 mins   █████████████████████░░░░   83.54 %
-YAML       29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-HTML       18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Python     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-XML        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Dart       5 hrs 35 mins   █████████████████████░░░░   84.28 %
+YAML       29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+HTML       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Python     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
