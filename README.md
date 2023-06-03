@@ -35,7 +35,7 @@ I recently graduated with a Bachelor's degree in CS and I am passionate about pr
 ## Coding Activity For the last 7 days:
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Dart       1 hr 38 mins    ███████████████████▓░░░░░   78.81 %
 Python     18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
 Markdown   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
