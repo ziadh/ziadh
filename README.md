@@ -36,11 +36,11 @@ I recently graduated with a Bachelor's degree in CS and I am passionate about pr
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   15 hrs 11 mins  █████████████████████▒░░░   84.95 %
-HTML         1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-JavaScript   30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+TypeScript   18 hrs 38 mins  █████████████████████▓░░░   86.82 %
+HTML         1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+JSON         43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+JavaScript   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
